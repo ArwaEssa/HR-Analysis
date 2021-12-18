@@ -10,7 +10,7 @@ data is imbalanced, Most features are categorical, so we
 Use the Resampling strategies and apply models to choose the best score of predict
 # Algorithms
 
-**1.Download and read data
+**1. Download and read data
 
 Divide the data into 3 sections: Training, Verification and
 Test 
@@ -30,7 +30,7 @@ Extract  experience level based on experience column , Extract company size bas
 Converter object columns type to int46 .
 convert  all columns to dummy columns before start a classifier.
 
-**5.Models
+**5. Models
 
 - Applied four different rating models
 KNeighborsClassifier,LogisticRegressionCV,
