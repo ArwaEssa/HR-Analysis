@@ -39,8 +39,8 @@ Their performance was evaluated
 
 6. Tools
 
-Library : 
+- Library : 
 Pandas , Numpy,Math ,Matplotlib.pyplot,Sklearn ,Scipy,
 Sklearn.linear_model ,Statsmodels.api and make_classification,StratifiedKFold,accuracy_score,
 imblearn.over_sampling sklearn.linear_model, sklearn.metrics sklearn.tree.
- Program : Python ,Jypter,Visme,Github
+- Program : Python ,Jypter,Visme,Github
