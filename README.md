@@ -10,26 +10,26 @@ data is imbalanced, Most features are categorical, so we
 Use the Resampling strategies and apply models to choose the best score of predict
 # Algorithms
 
-**1. Download and read data
+**1 . Download and read data
 
 Divide the data into 3 sections: Training, Verification and
 Test 
 
-**2. Quick Look at the Data Structure
+**2 . Quick Look at the Data Structure
 
 Looking for Correlations and value count for every column
 
-**3. Prepare the Data for Machine Learning Algorithms
+**3 . Prepare the Data for Machine Learning Algorithms
 
 Fill null values ,Replaces some values in some columns
 
-**4. Feature Engineering 
+**4 . Feature Engineering 
 
 Extract  experience level based on experience column , Extract company size based on company column.
 Converter object columns type to int46 .
 convert  all columns to dummy columns before start a classifier.
 
-**5. Models
+**5 . Models
 
 - Applied four different rating models
 KNeighborsClassifier,LogisticRegressionCV,
