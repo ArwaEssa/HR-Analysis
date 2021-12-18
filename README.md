@@ -14,7 +14,7 @@ Divide the data into 3 sections: Training, Verification and
 Test 
 **2. Quick Look at the Data Structure
 Looking for Correlations and value count for every column
-** 3. Prepare the Data
+**3. Prepare the Data
 for Machine Learning Algorithms
 Fill null values ,Replaces some values in some columns
 **4. Feature Engineering 
