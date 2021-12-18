@@ -37,7 +37,7 @@ DecisionTreeClassifier,RandomForestClassifier.
 - Applied  most popular Ensemble methods, including bagging, boosting, stacking
 Their performance was evaluated
 
-6. Tools
+# Tools
 
 - Library : 
 Pandas , Numpy,Math ,Matplotlib.pyplot,Sklearn ,Scipy,
